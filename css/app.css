@@ -45,9 +45,9 @@ a {
   height: 125px;
 }
 
-.header {
+/* .header {
   border-bottom: 1px solid #e2e8f0;
-}
+} */
 
 .navbar {
   display: flex;
